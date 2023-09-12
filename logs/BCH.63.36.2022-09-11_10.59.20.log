@@ -1,0 +1,36 @@
+INFO:root:Code: BCH.63.36
+INFO:root:mRRD Size 128, 10
+INFO:root:Using weight: BCH.63.36singleBCE17.pth
+WARNING:root:Start to test at SNR = 1
+CRITICAL:root:Frames: 2000, Bad Frames: 714, FER: 3.570000e-01 at 1(dB)
+WARNING:root:Start to test at SNR = 2
+CRITICAL:root:Frames: 2000, Bad Frames: 238, FER: 1.190000e-01 at 2(dB)
+WARNING:root:Start to test at SNR = 3
+CRITICAL:root:Frames: 6000, Bad Frames: 137, FER: 2.283333e-02 at 3(dB)
+WARNING:root:Start to test at SNR = 4
+INFO:root:Frames: 10000, Bad Frames: 18, FER: 1.800000e-03
+INFO:root:Frames: 20000, Bad Frames: 28, FER: 1.400000e-03
+INFO:root:Frames: 30000, Bad Frames: 44, FER: 1.466667e-03
+INFO:root:Frames: 40000, Bad Frames: 60, FER: 1.500000e-03
+INFO:root:Frames: 50000, Bad Frames: 82, FER: 1.640000e-03
+INFO:root:Frames: 60000, Bad Frames: 92, FER: 1.533333e-03
+CRITICAL:root:Frames: 66000, Bad Frames: 102, FER: 1.545454e-03 at 4(dB)
+WARNING:root:Start to test at SNR = 5
+INFO:root:Frames: 10000, Bad Frames: 0, FER: 0.000000e+00
+INFO:root:Frames: 20000, Bad Frames: 0, FER: 0.000000e+00
+INFO:root:Frames: 30000, Bad Frames: 1, FER: 3.333333e-05
+INFO:root:Frames: 40000, Bad Frames: 1, FER: 2.500000e-05
+INFO:root:Frames: 50000, Bad Frames: 3, FER: 6.000000e-05
+INFO:root:Frames: 60000, Bad Frames: 4, FER: 6.666667e-05
+INFO:root:Frames: 70000, Bad Frames: 4, FER: 5.714286e-05
+INFO:root:Frames: 80000, Bad Frames: 5, FER: 6.250000e-05
+INFO:root:Frames: 90000, Bad Frames: 5, FER: 5.555556e-05
+INFO:root:Frames: 100000, Bad Frames: 5, FER: 5.000000e-05
+INFO:root:Frames: 110000, Bad Frames: 5, FER: 4.545454e-05
+INFO:root:Frames: 120000, Bad Frames: 5, FER: 4.166667e-05
+INFO:root:Frames: 130000, Bad Frames: 5, FER: 3.846154e-05
+INFO:root:Frames: 140000, Bad Frames: 5, FER: 3.571429e-05
+INFO:root:Frames: 150000, Bad Frames: 5, FER: 3.333333e-05
+INFO:root:Frames: 160000, Bad Frames: 5, FER: 3.125000e-05
+INFO:root:Frames: 170000, Bad Frames: 6, FER: 3.529412e-05
+INFO:root:Frames: 180000, Bad Frames: 7, FER: 3.888889e-05

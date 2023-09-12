@@ -1,0 +1,40 @@
+INFO:root:Code: BCH.63.36
+INFO:root:mRRD Size 64, 10
+INFO:root:Using weight: BCH.63.45.Train.2022-08-25_08.00.46.log.pth
+WARNING:root:Start to test at SNR = 0
+CRITICAL:root:Frames: 2000, Bad Frames: 1556, FER: 7.780001e-01 at 0(dB)
+WARNING:root:Start to test at SNR = 1
+CRITICAL:root:Frames: 2000, Bad Frames: 1074, FER: 5.370000e-01 at 1(dB)
+WARNING:root:Start to test at SNR = 2
+CRITICAL:root:Frames: 2000, Bad Frames: 535, FER: 2.675000e-01 at 2(dB)
+WARNING:root:Start to test at SNR = 3
+CRITICAL:root:Frames: 2000, Bad Frames: 140, FER: 7.000000e-02 at 3(dB)
+WARNING:root:Start to test at SNR = 4
+INFO:root:Frames: 10000, Bad Frames: 93, FER: 9.300000e-03
+CRITICAL:root:Frames: 12000, Bad Frames: 109, FER: 9.083333e-03 at 4(dB)
+WARNING:root:Start to test at SNR = 5
+INFO:root:Frames: 10000, Bad Frames: 4, FER: 4.000000e-04
+INFO:root:Frames: 20000, Bad Frames: 10, FER: 5.000000e-04
+INFO:root:Frames: 30000, Bad Frames: 14, FER: 4.666667e-04
+INFO:root:Frames: 40000, Bad Frames: 19, FER: 4.750000e-04
+INFO:root:Frames: 50000, Bad Frames: 20, FER: 4.000000e-04
+INFO:root:Frames: 60000, Bad Frames: 27, FER: 4.500000e-04
+INFO:root:Frames: 70000, Bad Frames: 33, FER: 4.714286e-04
+INFO:root:Frames: 80000, Bad Frames: 36, FER: 4.500000e-04
+INFO:root:Frames: 90000, Bad Frames: 40, FER: 4.444444e-04
+INFO:root:Frames: 100000, Bad Frames: 41, FER: 4.100000e-04
+INFO:root:Frames: 110000, Bad Frames: 45, FER: 4.090909e-04
+INFO:root:Frames: 120000, Bad Frames: 50, FER: 4.166667e-04
+INFO:root:Frames: 130000, Bad Frames: 53, FER: 4.076923e-04
+INFO:root:Frames: 140000, Bad Frames: 55, FER: 3.928572e-04
+INFO:root:Frames: 150000, Bad Frames: 61, FER: 4.066667e-04
+INFO:root:Frames: 160000, Bad Frames: 67, FER: 4.187500e-04
+INFO:root:Frames: 170000, Bad Frames: 70, FER: 4.117647e-04
+INFO:root:Frames: 180000, Bad Frames: 74, FER: 4.111111e-04
+INFO:root:Frames: 190000, Bad Frames: 80, FER: 4.210527e-04
+INFO:root:Frames: 200000, Bad Frames: 85, FER: 4.250000e-04
+INFO:root:Frames: 210000, Bad Frames: 88, FER: 4.190476e-04
+INFO:root:Frames: 220000, Bad Frames: 92, FER: 4.181818e-04
+INFO:root:Frames: 230000, Bad Frames: 93, FER: 4.043478e-04
+INFO:root:Frames: 240000, Bad Frames: 97, FER: 4.041667e-04
+CRITICAL:root:Frames: 246000, Bad Frames: 100, FER: 4.065041e-04 at 5(dB)
